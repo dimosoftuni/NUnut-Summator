@@ -8,6 +8,7 @@ namespace Summator
 {
     public static class Summator
     {
+        // Test mwthod for sum of array from numbers
         public static int Sum(int[] arr)
         {
             int sum = arr[0];
