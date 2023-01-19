@@ -28,7 +28,7 @@ namespace Summator
                 throw new Exception("1+2 != 3");
             } else
             {
-                Console.WriteLine("Test Pass!");
+                Console.WriteLine("Test_SumTwoNumbers Pass!");
             }
         }
 
