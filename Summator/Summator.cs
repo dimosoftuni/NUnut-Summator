@@ -18,7 +18,7 @@ namespace Summator
             }
 
             // return sum
-            return sum;
+            return sum + 1;
         }
 
         public static double Average(int[] arr)
