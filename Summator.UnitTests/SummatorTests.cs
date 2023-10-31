@@ -10,7 +10,7 @@ namespace Summator.UnitTests
         {
             var nums = new int[] { 1, 2 };
             var actual = Summator.Sum(nums);
-            var expected = 3;
+            var expected = 4;
 
             Assert.AreEqual(expected, actual); 
         }
