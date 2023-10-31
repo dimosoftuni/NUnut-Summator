@@ -1,4 +1,5 @@
 ﻿namespace Summator
+# Example
 {
     internal class Program
     {
