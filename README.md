@@ -1,3 +1,3 @@
 # NUnut-Summator
 
-Sample project with unit tests and code coverage
+Sample project with unit tests and code coverage for testing
