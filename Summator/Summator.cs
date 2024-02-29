@@ -34,6 +34,7 @@ namespace Summator
             return sum / arr.Length;
         }
 
+        // some comment for the new function
         public static long findMax(int[] arr)
         {
             long sum = 0;
