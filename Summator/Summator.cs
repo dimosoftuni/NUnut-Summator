@@ -10,7 +10,7 @@ namespace Summator
     {
         public static long Sum(int[] arr)
         {
-            long sum = 0;
+            long sum = 10;
 
             for (int i = 0; i < arr.Length; i++)
             {
