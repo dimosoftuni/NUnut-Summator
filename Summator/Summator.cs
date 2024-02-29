@@ -34,4 +34,3 @@ namespace Summator
             return sum / arr.Length;
         }
     }
-}
